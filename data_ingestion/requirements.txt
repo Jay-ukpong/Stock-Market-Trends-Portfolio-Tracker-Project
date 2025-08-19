@@ -1,1 +1,25 @@
+Task: Stock Market Trends & Portfolio Tracker (Finance)
+Data Source:
+• Yahoo Finance API or Alpha Vantage API.
+Deliverables:
+1. Python script to fetch daily OHLC (Open, High, Low, Close) stock data for at least 5
+companies.
+2. Transformation scripts to calculate moving averages, portfolio performance, and top
+gainers/losers.
+3. PostgreSQL schema with stocks, portfolio, and metrics tables.
+4. Grafana dashboard with:
+a) Stock price trends with moving averages.
+b) Portfolio total value over time.
+c) Top 5 gainers/losers table.
 
+General Deliverables for the Projects
+1. SQL Query Scripts – All SQL queries written for the project in a single .sql file.
+2. Excel Output File – Export of all final query results in a single .xlsx file (cleaned and
+ready for review by the Solution Analyst).
+3. Data Documentation Report – PDF/Word file containing:
+    o Project title & objective
+    o Description of data source(s)
+    o ER diagram or schema (if applicable)
+    o SQL queries used (with explanations)
+    o Summary of results & insights
+    o Challenges faced and how they were resolved
